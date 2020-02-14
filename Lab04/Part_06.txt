@@ -1,0 +1,4 @@
+Hello!
+This is my first file created and edited by vi.
+
+Continue to explore!!!
